@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">INFO6124 Project 1</string>
+
+    <string-array name="courses">
+        <item>INFO6124</item>
+        <item>INFO6125</item>
+        <item>INFO6126</item>
+        <item>INFO6127</item>
+        <item>INFO6128</item>
+        <item>INFO6129</item>
+    </string-array>
+
+    <string name="description_body">
+        Author: Jianwei Wang\n
+        \nThis application is to record the grades for MAP2 program. Enter all the information
+        on the main page and press "RECORD" button to save. On the display page you will see all
+        the grades you have entered.
+    </string>
+    <string name="select_course">Select Course</string>
+    <string name="lab">Lab</string>
+    <string name="project">Project</string>
+    <string name="test">Test</string>
+    <string name="mid_term">Mid Term</string>
+    <string name="final_exam">Exam</string>
+    <string name="textview">TextView</string>
+    <string name="application_description">Application Description</string>
+    <string name="back_to_main">Back to main</string>
+    <string name="record">Record</string>
+    <string name="full_over_100">Full grade can\'t be higher than 100!</string>
+    <string name="rcv_gt_full">Received grade can\'t be higher than full grade!</string>
+    <string name="perc_gt_100">"Percent can\'t be higher than 100!"</string>
+    <string name="empty_field">Some field is empty!</string>
+    <string name="select_grade_type">Select Grade Type</string>
+    <string name="enter_grade_and_percentage">Enter Grade and Percentage</string>
+    <string name="full_grade">Full Grade</string>
+    <string name="received_grade">Received Grade</string>
+    <string name="symbol">%</string>
+    <string name="weight_of_total_grade">Weight in total grade</string>
+    <string name="settings">settings</string>
+    <string name="grade_records">Grade Records</string>
+    <string name="back_to_main_from_second">back to main</string>
+    <string name="delete_all">Delete All</string>
+    <string name="course_code">Course Code</string>
+    <string name="total_weight_submitted">Total Weight Submitted</string>
+    <string name="grade_to_date">Grade To Date %</string>
+    <string name="go_back_to_main">Go back to main</string>
+    <string name="summary">Summary</string>
+    <string name="summaryButton">Summary</string>
+    <string name="course_name">Course Code</string>
+    <string name="total_grade_submitted">Total Grade Submitted %</string>
+    <string name="grade_type">Grade Type</string>
+    <string name="see_records">See Records</string>
+
+
+</resources>

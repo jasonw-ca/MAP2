@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This is a simple XML definition for a Animation. 
+	Over the course of 5 seconds, move 100 up and then 100 back down the Y axis. -->
+	<set
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:shareInterpolator="false">
+	
+    <translate android:toYDelta="-215"
+
+               android:duration="100"
+               />
+	<translate android:toYDelta="60"
+
+		android:duration="75"
+		android:startOffset = "100"
+		/>
+
+
+	
+</set>

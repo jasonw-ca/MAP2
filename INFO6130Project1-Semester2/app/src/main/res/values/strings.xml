@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">INFO6130 Project1</string>
+    <string name="action_switch_layout">Switch Layout</string>
+    <string name="total_number">Number of photos: </string>
+    <string name="about">About</string>
+    <string name="about_content">By Jianwei Wang \n\nThe app is getting data from one of the NASA open APIs - Mars Rover
+        Photos to show the latest mars photos and the related info, e.g. rover, camera and taken
+        date. \n1. Users can select linear layout to show bigger photos in the list or select grid
+        layout to see more smaller photos. \n2. Users can also select which rover or rovers they like to
+        see the photos of by toggling the rovers selection button. \n3. By clicking any of the photos,
+        users can view the very photo in a dedicated page with related info to that photo.</string>
+    <string name="photo_taken_by_curiocity_on_sol_1000">Photo taken by Curiocity on sol 1000</string>
+    <string name="curiosity">CURIOSITY</string>
+    <string name="opportunity">OPPORTUNITY</string>
+    <string name="spirit">SPIRIT</string>
+    <string name="photos_of_all_three_rovers_0">Photos of all three rovers: 0</string>
+
+</resources>

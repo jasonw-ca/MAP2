@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">INFO6124 Project2</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="view_map">View Map</string>
+    <string name="send_email">Send Email</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="my_location_title">My Current Location</string>
+    <string name="service">Location Services not working</string>
+    <string name="invalid_lat_long">Invalid Latitude and Longitude</string>
+    <string name="no_address_found">No address found from that Lat/Lng</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_email_subject">Enter Email Subject</string>
+    <string name="no_address">No address can be sent</string>
+    <string name="send_email_button">Send Email</string>
+    <string name="click_button_to_email_current_location">Click button to email current location</string>
+    <string name="address">Address</string>
+    <string name="to">To</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="click_button_to_sms_current_location">Click button to SMS current location</string>
+</resources>
