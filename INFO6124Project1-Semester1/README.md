@@ -14,4 +14,4 @@ As the very first project of my learning course, it uses some basic techniques t
   <img src="./screenshots/6124-P1-1.png" width="280" style="border:5px white;"/>
   <img src="./screenshots/6124-P1-2.png" width="280" style="border:5px white;"/>  
   <img src="./screenshots/6124-P1-3.png" width="280" style="border:50px #000000;"/>  
-</p?
+</p>
