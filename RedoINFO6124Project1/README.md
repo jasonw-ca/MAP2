@@ -1,4 +1,11 @@
 # RedoINFO6124Project1
+
+<p>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="android studio" width="40" height="40"/>
+ <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+ </p>
+
 Redo INFO6124 Project1 with new skills and knowledge
 
 When I started my second semester, I had a desire to redo this app to test the new knowledge and skills I learned afterwards. The redone version delivers the same functions but with greatly optimized UI/UX and improved app architecture.
