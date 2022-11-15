@@ -1,4 +1,7 @@
 # INFO6125Project1
+
+with Xcode and UIKit
+
 This app is cloning the popular game Wordle. This is my first iOS project, where my problem-solving ability and creativity played a big role in compensating for the very limited iOS development knowledge at that moment.
 
 ## Tech-Stack
