@@ -16,9 +16,19 @@ This redone project is trying to follow the best practice with some afterwards l
 
 ## Screenshots
 
+Old version
+
+<p float="center">
+  <img src="./screenshots/6124-P1-1.png" width="300" style="border:5px white;"/>
+  <img src="./screenshots/6124-P1-2.png" width="300" style="border:5px white;"/>  
+  <img src="./screenshots/6124-P1-3.png" width="300" style="border:50px #000000;"/>  
+</p>
+
+Redone version
+
 <p float="center">
   <img src="./screenshots/Redo6124-P1-1.png" width="300" style="border:5px white;"/>
   <img src="./screenshots/Redo6124-P1-2.png" width="300" style="border:5px white;"/>  
   <img src="./screenshots/Redo6124-P1-3.png" width="300" style="border:50px #000000;"/>  
-</p?
+</p>
 
